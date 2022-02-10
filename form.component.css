@@ -1,0 +1,13 @@
+/* .example-card {
+    max-width: 400px;
+  } */
+  .example-card {
+     max-width: 400px; 
+     
+    margin: 10px;
+    box-shadow: 0 2px 1px -1px rgb(126, 117, 117), 
+                  0 1px 1px 0 rgb(126, 117, 117), 
+                  0 1px 3px 0 rgb(126, 117, 117);
+                  border-radius: 20px;
+  }
+  
